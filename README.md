@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoyalRud
+- 👋 Hi, I’m @ Rudragouda Patil
 - 👀 I’m interested in python, Django, AWS, Machine Learning
 - 🌱 I’m currently learning AWS, Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning
