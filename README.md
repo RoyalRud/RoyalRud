@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Rudragouda Patil
+- 👋 Hi, I’m @ Rudragouda G. Patil
 - 👀 I’m interested in python, Django, AWS, Machine Learning
 - 🌱 I’m currently learning AWS, Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning
